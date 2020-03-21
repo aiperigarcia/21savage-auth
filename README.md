@@ -2,7 +2,7 @@
 
 ## Goal:
 
-Create a full-stack app with user authentication where users can view and white messages.
+Create a full-stack app with user authentication where users can view and write messages.
 
 ![21 Savage](public/img/sc.png)
 
