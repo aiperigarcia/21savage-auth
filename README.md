@@ -4,7 +4,7 @@
 
 Create a full-stack app with user authentication where users can view and write messages.
 
-![21 Savage](public/img/sc.png)
+![21 Savage](public/img/read.png)
 
 ## How It's Made:
 
